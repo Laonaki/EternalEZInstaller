@@ -1,0 +1,2 @@
+# EternalEZInstaller
+fast gaming
